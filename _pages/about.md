@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Tencent START Cloud Gaming
-
-Achieving Ultra-Low Latency in Cloud Gaming
-======
 ![Poster](./images/nsdi_poster_midsize.jpg)
 
 Pudica: Toward Near-Zero Queuing Delay in Congestion Control for Cloud Gaming
